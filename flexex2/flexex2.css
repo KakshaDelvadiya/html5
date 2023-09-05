@@ -1,0 +1,43 @@
+         section {
+            height: 700px;
+            background-color: pink;
+        }
+
+        header {
+            background-color: hotpink;
+           
+
+        }
+        
+        .conteiner {
+            width: 1200px;
+            margin: 0 auto;
+        }
+
+        nav {
+            /* padding: 30px 0; */
+            border: solid 2px;
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .row{
+            display: flex;
+            align-items: center;
+        }
+        ul li{
+            display: inline-block;
+            margin: 35px;
+        }
+        .links a{
+            font-size: 20px;
+            color: white;
+            text-decoration: none;
+            border: solid 2px;
+            padding: 10px;
+        }
+        h1{
+            color: white;
+            font-size: 35px;
+        }
